@@ -1,0 +1,16 @@
+.video{
+  margin: 0 auto ;
+  width: 50%;
+  height: 50vh;
+}
+.video-js{
+  width: 253px;
+  height: 450px;
+}
+@media(max-width:414px){
+  .video-js{
+    right: 23px;
+    width: 250px;
+    height: 390px;
+  }
+}
